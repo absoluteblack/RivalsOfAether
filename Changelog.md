@@ -5,3 +5,7 @@ Fspecial does not knock up (Once hitstun modifier is in place, BKB will be lower
 Slight buff to double jump height  
 Nair has less bkb, more scaling
 Ftilt hitboxes cleaned up to remove royzones
+Removed grounded downb
+
+**General**:
+Tumble DI revert to 18 degrees
